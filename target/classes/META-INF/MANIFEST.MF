@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: member-provider-hub
+Implementation-Version: 0.0.1
+Built-By: lenovo
+Implementation-Vendor-Id: com.adalitek.mph
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/member-provider-hub
+Created-By: Maven Integration for Eclipse
+
